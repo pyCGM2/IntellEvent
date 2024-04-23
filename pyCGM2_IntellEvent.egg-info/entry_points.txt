@@ -1,0 +1,4 @@
+[console_scripts]
+intellevent_Request = intellevent.Apps.intelleventDetector:main
+intellevent_Server = intellevent.Apps.server.server_intellevent:main
+

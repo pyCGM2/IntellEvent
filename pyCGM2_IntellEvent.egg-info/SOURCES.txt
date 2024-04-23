@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+intellevent/__init__.py
+intellevent/Apps/__init__.py
+intellevent/Apps/intelleventDetector.py
+intellevent/Apps/server/__init__.py
+intellevent/Apps/server/server_intellevent.py
+intellevent/procedure/__init__.py
+intellevent/procedure/eventProcedure.py
+pyCGM2_IntellEvent.egg-info/PKG-INFO
+pyCGM2_IntellEvent.egg-info/SOURCES.txt
+pyCGM2_IntellEvent.egg-info/dependency_links.txt
+pyCGM2_IntellEvent.egg-info/entry_points.txt
+pyCGM2_IntellEvent.egg-info/top_level.txt
